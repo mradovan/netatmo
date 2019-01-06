@@ -1,0 +1,26 @@
+Indoor
+                         Noise : 48
+                   Temperature : 21.8
+                          When : 17:57:04
+                    temp_trend : down
+                      Humidity : 63
+                      Pressure : 1034.6
+                           CO2 : 2094
+                      min_temp : 19.9
+              AbsolutePressure : 1007.6
+                pressure_trend : up
+                 date_max_temp : 1546788704
+                 date_min_temp : 1546729492
+                   wifi_status : 41
+                      max_temp : 22.8
+Outdoor
+                 date_min_temp : 1546748448
+                     rf_status : 62
+                   Temperature : 5.6
+                          When : 17:57:01
+                    temp_trend : stable
+                      Humidity : 84
+                      min_temp : 5.2
+                 date_max_temp : 1546773415
+                    battery_vp : 6000
+                      max_temp : 5.8
